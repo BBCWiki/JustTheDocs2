@@ -31,3 +31,8 @@ just_the_docs:
       # Exclude the collection from the search
       # Supports true or false (default)
       # search_exclude: true
+
+callouts:
+  warning:
+    title: helpdesk
+    color: red
