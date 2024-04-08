@@ -9,3 +9,10 @@ parent: Helpdesk
 * Advertising
 
 * Other Services
+
+{: .important }
+> {: .opaque }
+> <div markdown="block">
+> {: .warning }
+> A paragraph
+> </div>
