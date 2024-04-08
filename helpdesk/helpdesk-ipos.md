@@ -1,7 +1,7 @@
 ---
 title: Ipos support team
 layout: home
-parent: helpdesk
+parent: Helpdesk
 ---
 
 * Get to know the team
