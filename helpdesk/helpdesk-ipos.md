@@ -12,4 +12,5 @@ These are our operators, always ready to help:
    - Eduardo
    - Francesco
    - Luca
+
 [Link button](https://just-the-docs.com){: .btn .btn-purple }
