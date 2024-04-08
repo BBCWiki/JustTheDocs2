@@ -1,6 +1,7 @@
 ---
 title: Petrol Monitor
 layout: home
+parent: Helpdesk
 ---
 
 * Monitoring
