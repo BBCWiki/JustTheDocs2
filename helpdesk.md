@@ -1,5 +1,5 @@
 ---
-title: Welcome to helpdesk
+title: Helpdesk
 layout: home
 has_children: true
 ---
