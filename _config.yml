@@ -32,7 +32,4 @@ just_the_docs:
       # Supports true or false (default)
       # search_exclude: true
 
-callouts:
-  warning:
-    title: helpdesk
-    color: red
+
