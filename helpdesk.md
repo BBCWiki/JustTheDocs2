@@ -1,6 +1,7 @@
 ---
 title: Welcome to helpdesk
 layout: home
+has-children: true
 ---
 
 
