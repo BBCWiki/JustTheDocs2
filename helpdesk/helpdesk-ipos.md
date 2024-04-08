@@ -13,4 +13,4 @@ These are our operators, always ready to help:
    - Francesco
    - Luca
 
-[Link button](https://just-the-docs.com){: .btn .btn-purple }
+[Contattaci](https://just-the-docs.com){: .btn .btn-purple }
