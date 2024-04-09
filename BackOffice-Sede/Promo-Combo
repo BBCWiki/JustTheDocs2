@@ -1,8 +1,9 @@
 ---
-title: Promo Combo 
 layout: home
+title: Promo Combo
 parent: Promozioni Attive
 grand_parent: BackOffice Sede
+nav_order: 1
 ---
 
 #Promo Combo
