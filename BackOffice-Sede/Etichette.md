@@ -1,7 +1,7 @@
 ---
 title: Etichette
 layout: home
-parent: BackOffice-Sede
+parent: BackOffice Sede
 nav_order: 4
 ---
 
