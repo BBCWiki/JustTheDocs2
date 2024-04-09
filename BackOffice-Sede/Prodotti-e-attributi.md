@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Prodotti e attributi
-parent: BackOffice sede
-nav_order: 1
+parent: BackOffice-sede
+nav_order: 2
 ---
 
 ## Attributi Prodotto
