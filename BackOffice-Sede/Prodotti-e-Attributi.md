@@ -1,6 +1,6 @@
 ---
 title: Prodotti-e-Attributi
-layout: default
+layout: home
 parent: BackOffice-Sede
 nav_order: 2
 ---
