@@ -1,5 +1,5 @@
 ---
-title: Prodotti-e-Attributi
+title: Prodotti e Attributi
 layout: home
 parent: BackOffice Sede
 nav_order: 2
