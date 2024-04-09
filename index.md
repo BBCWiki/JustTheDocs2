@@ -4,9 +4,9 @@ layout: home
 nav_order: 1
 ---
 
-https://example.com/video.mp4
-
-Press play to see the video.
+<video width="320" height="240" controls>
+  <source src="video.mov" type="video/mp4">
+</video>
 
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
