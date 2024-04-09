@@ -1,1 +1,15 @@
+---
+title: Promo Combo
+layout: home
+parent: Promozioni Attive
+grand_parent: BackOffice Sede
+nav_order: 1
+---
 
+Nell’ultima colonna, infine, viene visualizzato se sono state generate delle Etichette per gli articoli presenti nella promozione. Per fare tale operazione, basta selezionare gli articoli interessati (possiamo selezionarli tutti, premendo il pulsante  
+
+![Screenshot 2024-03-28 115515](https://github.com/BBCWiki/Manuals-user-/assets/164161230/561351e5-64d4-45b7-a356-c57d7a014e00) ‘Seleziona tutto’ nell’angolo in alto a sinistra) e poi premere il pulsante ![Screenshot 2024-03-28 115538](https://github.com/BBCWiki/Manuals-user-/assets/164161230/5c261b5a-3f56-4190-a5ce-d2da0cd08108) Etichette’, posizionato sempre nell’angolo in alto a sinistra della schermata: Il programma chiede di specificare il tipo di etichetta, selezionandolo da un menù a tendina:
+
+![Screenshot 2024-03-28 122123](https://github.com/BBCWiki/Manuals-user-/assets/164161230/a3fa510c-8e92-4018-81d4-5d839408e605)
+
+Una volta data conferma premendo OK, verranno generate le etichette per tutti gli articoli selezionati presenti nello stock del punto vendita, etichette che potremo stampare andando nella sezione “Etichette” analizzata nel paragrafo precedente.
