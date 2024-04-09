@@ -5,7 +5,6 @@ has_children: true
 nav_order: 2
 ---
 
-
 Il programma una volta avviato si presenta con il modulo di log-in:
 
 ![Screenshot 2024-03-28 105728](https://github.com/BBCWiki/Manuals-user-/assets/164161230/403cf554-6ddb-418c-8778-a05e38791df7)
