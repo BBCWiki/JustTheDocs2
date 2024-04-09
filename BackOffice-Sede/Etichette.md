@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Etichette
+layout: default
 parent: BackOffice-Sede
 nav_order: 4
 ---
