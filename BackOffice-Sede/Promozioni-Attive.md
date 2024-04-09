@@ -1,5 +1,5 @@
 ---
-title: Promozioni-Attive
+title: Promozioni Attive
 layout: home
 parent: BackOffice Sede
 nav_order: 3
