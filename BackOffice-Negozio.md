@@ -4,10 +4,6 @@ layout: home
 has_children: true
 nav_order: 3
 ---
----
-layout: minimal
-title: Minimal layout test
----
 
 Il programma una volta avviato si presenta con il modulo di log-in:
 
